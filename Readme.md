@@ -28,3 +28,13 @@ https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/grid_fill
 ```
 
 -Quick favorites: "q" on keyboard
+
+### 5/22/23
+
+Bevel:
+
+- "b"
+
+-Inset: Lecture 1-10 at 2:53
+
+- "i"
