@@ -38,3 +38,7 @@ Bevel:
 -Inset: Lecture 1-10 at 2:53
 
 - "i"
+
+### 5/24/23
+
+-"to sphere" Lecture 13 at 0:59. Mesh > Transform > to Sphere
