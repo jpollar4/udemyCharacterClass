@@ -42,3 +42,7 @@ Bevel:
 ### 5/24/23
 
 -"to sphere" Lecture 13 at 0:59. Mesh > Transform > to Sphere
+
+### 6/1/23
+
+-Alt+S to scale by the normals. Lecture 23
